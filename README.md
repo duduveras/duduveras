@@ -1,6 +1,6 @@
 ### OLá me chamo Eduardo Veras 👋
 
-- 🔭 Estou fazendo faculdade de Ciencia da Computaçao
+- 🔭 Estou fazendo faculdade de Ciência da Computação
 - 💻 Estou aprimorando meus conhecimentos na área da programação 
 - 📫 Contate-me no email: eduhveras@gmail.com
 - 😄 Pronouns:ele/dele
